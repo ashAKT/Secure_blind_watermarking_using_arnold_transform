@@ -99,7 +99,19 @@ inverse_arnold_transform (scram_watermark)
 2.	Traditional scrambling technique based on Arnold Transformation only applies to square area. However, research is happening to extend Arnold scrambling to non-square images[2].
 3.	Traditional scrambling technique based on Arnold Transformation only applies to binary image i.e image having only two colours. Arnold Transformation combined with various  image transform are used for colour image encryption[3].
 
+## Performance Parameters realised to analyze the robustness of watermarked image [1,4]:
+(Not implemented in this repository)
+1. Normalized Correlation(NC)
+2. Peak Signal to Noise Ration(PSNR)
+3. Bit Error Rate(BER)
+4. Structural Similarity Index Matrix(SSIM)
+
+## Various Watermark Attacks:
+Major threat in digital watermarking are attacks such as image processing attack, geometric attacks, cryptographic attacks, and protocol attack [5].
+
 ## References:
 1.	Thanki, Rohit, and Ashish Kothari. ``Multi-level security of medical images based on encryption and watermarking for telemedicine applications." Multimedia Tools and Applications 80.3 (2021): 4307-4325.
 2.	Min, Li, Liang Ting, and He Yu-jie. "Arnold transform based image scrambling method." 3rd International Conference on Multimedia Technology (ICMT-13). Atlantis Press, 2013.
 3.	Vaish, Ankita, and Manoj Kumar. "Color image encryption using MSVD, DWT and Arnold transform in fractional Fourier domain." Optik 145 (2017): 273-283.
+4.	Kumar, Chandan, Amit Kumar Singh, and Pardeep Kumar. "Dual watermarking: An approach for securing digital documents." Multimedia Tools and Applications (2019): 1-16.
+5.	Garg, Preeti, and R. Rama Kishore. "Performance comparison of various watermarking techniques." Multimedia Tools and Applications 79.35 (2020): 25921-25967.
