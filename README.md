@@ -88,6 +88,11 @@ extract_watermark (embed_img)
 ```javascript
 inverse_arnold_transform (scram_watermark)
 ```
+## SCREENSHOTS:
+
+![asheet_arnold1](https://user-images.githubusercontent.com/25420334/124364394-ddbb2c80-dc5e-11eb-9ba5-310d9e044eb9.jpg)
+
+![asheet_arnold2](https://user-images.githubusercontent.com/25420334/124364401-ef9ccf80-dc5e-11eb-8384-b6b70c851391.jpg)
 
 ## Limitations of Arnold Transformation:
 1.	Only restricted to 2D images[1]
