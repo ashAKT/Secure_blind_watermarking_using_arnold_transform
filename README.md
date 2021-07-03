@@ -95,12 +95,12 @@ inverse_arnold_transform (scram_watermark)
 ![asheet_arnold2](https://user-images.githubusercontent.com/25420334/124364401-ef9ccf80-dc5e-11eb-8384-b6b70c851391.jpg)
 
 ## Limitations of Arnold Transformation:
-1.	Only restricted to 2D images[1].
+1.	Only restricted to 2D images.
 2.	Cannot be extended to text or audio because arnold transform is an image encryption technique.
-3.	Traditional scrambling technique based on Arnold Transformation only applies to square area. However, research is happening to extend Arnold scrambling to non-square images[2].
-4.	Traditional scrambling technique based on Arnold Transformation only applies to binary image i.e image having only two colours. Arnold Transformation combined with various  image transform are used for colour image encryption[3].
+3.	Traditional scrambling technique based on Arnold Transformation only applies to square area. However, research is happening to extend Arnold scrambling to non-square images[5].
+4.	Traditional scrambling technique based on Arnold Transformation only applies to binary image i.e image having only two colours. Arnold Transformation combined with various  image transform are used for colour image encryption[6].
 
-## Performance Parameters realised to analyze the robustness of watermarked image [1,4]:
+## Performance Parameters realised to analyze the robustness of watermarked image [1-3]:
 (Not implemented in this repository)
 1. Normalized Correlation(NC)
 2. Peak Signal to Noise Ration(PSNR)
@@ -108,15 +108,16 @@ inverse_arnold_transform (scram_watermark)
 4. Structural Similarity Index Matrix(SSIM)
 
 ## Various Watermark Attacks:
-Major threat in digital watermarking are attacks such as image processing attack, geometric attacks, cryptographic attacks, and protocol attack [5].
+Major threat in digital watermarking are attacks such as image processing attack, geometric attacks, cryptographic attacks, and protocol attack [4].
 
 ## References:
-1.	Thanki, Rohit, and Ashish Kothari. ``Multi-level security of medical images based on encryption and watermarking for telemedicine applications." Multimedia Tools and Applications 80.3 (2021): 4307-4325.
-2.	Min, Li, Liang Ting, and He Yu-jie. "Arnold transform based image scrambling method." 3rd International Conference on Multimedia Technology (ICMT-13). Atlantis Press, 2013.
-3.	Vaish, Ankita, and Manoj Kumar. "Color image encryption using MSVD, DWT and Arnold transform in fractional Fourier domain." Optik 145 (2017): 273-283.
-4.	Kumar, Chandan, Amit Kumar Singh, and Pardeep Kumar. "Dual watermarking: An approach for securing digital documents." Multimedia Tools and Applications (2019): 1-16.
-5.	Garg, Preeti, and R. Rama Kishore. "Performance comparison of various watermarking techniques." Multimedia Tools and Applications 79.35 (2020): 25921-25967.
-6.	Arnold Transform Source Code --> https://github.com/AleDiBen/ArnoldTransform
-7.	Blind Watermarking Source Code --> https://pypi.org/project/blind-watermark/
+1.	Zhaofeng, Ma, Huang Weihua, and Gao Hongmin. "A new blockchain-based trusted DRM scheme for built-in content protection." EURASIP Journal on Image and Video Processing 2018.1 (2018): 1-12.
+2.	Thanki, Rohit, and Ashish Kothari. ``Multi-level security of medical images based on encryption and watermarking for telemedicine applications." Multimedia Tools and Applications 80.3 (2021): 4307-4325.
+3.	Kumar, Chandan, Amit Kumar Singh, and Pardeep Kumar. "Dual watermarking: An approach for securing digital documents." Multimedia Tools and Applications (2019): 1-16.
+4.	Garg, Preeti, and R. Rama Kishore. "Performance comparison of various watermarking techniques." Multimedia Tools and Applications 79.35 (2020): 25921-25967.
+5.	Min, Li, Liang Ting, and He Yu-jie. "Arnold transform based image scrambling method." 3rd International Conference on Multimedia Technology (ICMT-13). Atlantis Press, 2013.
+6.	Vaish, Ankita, and Manoj Kumar. "Color image encryption using MSVD, DWT and Arnold transform in fractional Fourier domain." Optik 145 (2017): 273-283.
+7.	Arnold Transform Source Code --> https://github.com/AleDiBen/ArnoldTransform
+8.	Blind Watermarking Source Code --> https://pypi.org/project/blind-watermark/
 
 ## ---> Please let me know if this repository is helpful to you <---
