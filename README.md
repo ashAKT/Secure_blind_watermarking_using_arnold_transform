@@ -95,9 +95,10 @@ inverse_arnold_transform (scram_watermark)
 ![asheet_arnold2](https://user-images.githubusercontent.com/25420334/124364401-ef9ccf80-dc5e-11eb-8384-b6b70c851391.jpg)
 
 ## Limitations of Arnold Transformation:
-1.	Only restricted to 2D images[1]
-2.	Traditional scrambling technique based on Arnold Transformation only applies to square area. However, research is happening to extend Arnold scrambling to non-square images[2].
-3.	Traditional scrambling technique based on Arnold Transformation only applies to binary image i.e image having only two colours. Arnold Transformation combined with various  image transform are used for colour image encryption[3].
+1.	Only restricted to 2D images[1].
+2.	Cannot be extended to text or audio because arnold transform is an image encryption technique.
+3.	Traditional scrambling technique based on Arnold Transformation only applies to square area. However, research is happening to extend Arnold scrambling to non-square images[2].
+4.	Traditional scrambling technique based on Arnold Transformation only applies to binary image i.e image having only two colours. Arnold Transformation combined with various  image transform are used for colour image encryption[3].
 
 ## Performance Parameters realised to analyze the robustness of watermarked image [1,4]:
 (Not implemented in this repository)
