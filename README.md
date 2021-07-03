@@ -118,4 +118,4 @@ Major threat in digital watermarking are attacks such as image processing attack
 6.	Arnold Transform Source Code --> https://github.com/AleDiBen/ArnoldTransform
 7.	Blind Watermarking Source Code --> https://pypi.org/project/blind-watermark/
 
-# ---> Please let me know if this repository is helpful to you <---
+## ---> Please let me know if this repository is helpful to you <---
