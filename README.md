@@ -88,3 +88,13 @@ extract_watermark (embed_img)
 ```javascript
 inverse_arnold_transform (scram_watermark)
 ```
+
+## Limitations of Arnold Transformation:
+1.	Only restricted to 2D images[1]
+2.	Traditional scrambling technique based on Arnold Transformation only applies to square area. However, research is happening to extend Arnold scrambling to non-square images[2].
+3.	Traditional scrambling technique based on Arnold Transformation only applies to binary image i.e image having only two colours. Arnold Transformation combined with various  image transform are used for colour image encryption[3].
+
+## References:
+1.	Thanki, Rohit, and Ashish Kothari. ``Multi-level security of medical images based on encryption and watermarking for telemedicine applications." Multimedia Tools and Applications 80.3 (2021): 4307-4325.
+2.	Min, Li, Liang Ting, and He Yu-jie. "Arnold transform based image scrambling method." 3rd International Conference on Multimedia Technology (ICMT-13). Atlantis Press, 2013.
+3.	Vaish, Ankita, and Manoj Kumar. "Color image encryption using MSVD, DWT and Arnold transform in fractional Fourier domain." Optik 145 (2017): 273-283.
