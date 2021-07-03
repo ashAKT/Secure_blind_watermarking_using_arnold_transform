@@ -72,7 +72,7 @@ pip install Pillow
 ## PROGRAMMING
 
 Methods Used:
-1. Arnold Transformation on the watermark logo
+1. Arnold Transformation on the watermark logo (Source code--> https://github.com/AleDiBen/ArnoldTransform)
 ```javascript
 perform_arnold_transform (watermark_logo)
 ```
@@ -115,3 +115,7 @@ Major threat in digital watermarking are attacks such as image processing attack
 3.	Vaish, Ankita, and Manoj Kumar. "Color image encryption using MSVD, DWT and Arnold transform in fractional Fourier domain." Optik 145 (2017): 273-283.
 4.	Kumar, Chandan, Amit Kumar Singh, and Pardeep Kumar. "Dual watermarking: An approach for securing digital documents." Multimedia Tools and Applications (2019): 1-16.
 5.	Garg, Preeti, and R. Rama Kishore. "Performance comparison of various watermarking techniques." Multimedia Tools and Applications 79.35 (2020): 25921-25967.
+6.	Arnold Transform Source Code --> https://github.com/AleDiBen/ArnoldTransform
+7.	Blind Watermarking Source Code --> https://pypi.org/project/blind-watermark/
+
+# ---> Please let me know if this repository is helpful to you <---
