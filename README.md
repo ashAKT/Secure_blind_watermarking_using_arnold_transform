@@ -88,7 +88,7 @@ extract_watermark (embed_img)
 ```javascript
 inverse_arnold_transform (scram_watermark)
 ```
-## SCREENSHOTS:
+## Screenshots:
 
 ![asheet_arnold1](https://user-images.githubusercontent.com/25420334/124364394-ddbb2c80-dc5e-11eb-9ba5-310d9e044eb9.jpg)
 
