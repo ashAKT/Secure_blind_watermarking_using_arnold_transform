@@ -1,5 +1,4 @@
-# Secure_watermarking_using_Arnold_Transform
-
+# Secure_blind_watermarking_using_Arnold_Transform
 Arnold Transformation performs matrix(N x N) transformation on the image. Major benefit of Arnold transformation is that the number of times Arnold transformation applied while encrypting the image, then while decrypting the same number of Arnold transform would decrypt the watermark image as shown below.
 
 ![arnold-1](https://user-images.githubusercontent.com/25420334/124324974-7ee3ad80-dba1-11eb-925b-71bf2b79357e.jpg)
@@ -109,6 +108,9 @@ inverse_arnold_transform (scram_watermark)
 
 ## Various Watermark Attacks:
 Major threat in digital watermarking are attacks such as image processing attack, geometric attacks, cryptographic attacks, and protocol attack [4].
+
+## Future Works:
+Can possibly be extended to secure watermarking in videos for digital rights management.
 
 ## References:
 1.	Zhaofeng, Ma, Huang Weihua, and Gao Hongmin. "A new blockchain-based trusted DRM scheme for built-in content protection." EURASIP Journal on Image and Video Processing 2018.1 (2018): 1-12.
