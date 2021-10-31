@@ -95,7 +95,7 @@ inverse_arnold_transform (scram_watermark)
 
 ## Video Explanation:
 
-[![Demonstration](![copyright](https://user-images.githubusercontent.com/25420334/139588979-a37a16b9-3aa4-4096-9d24-46ee78b0ceb5.png)](https://drive.google.com/file/d/1IYTqi_PDfXeXCZrcQ5BANrdJxfH3fvgu/view?usp=sharing) </br>
+[![copyright](https://user-images.githubusercontent.com/25420334/139588979-a37a16b9-3aa4-4096-9d24-46ee78b0ceb5.png)](https://youtu.be/p7pHT9tVIn0) </br>
 
 ## Limitations of Arnold Transformation:
 1.	Only restricted to 2D images.
