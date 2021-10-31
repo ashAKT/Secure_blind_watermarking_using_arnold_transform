@@ -93,6 +93,10 @@ inverse_arnold_transform (scram_watermark)
 
 ![asheet_arnold2](https://user-images.githubusercontent.com/25420334/124364401-ef9ccf80-dc5e-11eb-8384-b6b70c851391.jpg)
 
+## Video Explanation:
+
+[![Demonstration](![copyright](https://user-images.githubusercontent.com/25420334/139588979-a37a16b9-3aa4-4096-9d24-46ee78b0ceb5.png)](https://drive.google.com/file/d/1IYTqi_PDfXeXCZrcQ5BANrdJxfH3fvgu/view?usp=sharing) </br>
+
 ## Limitations of Arnold Transformation:
 1.	Only restricted to 2D images.
 2.	Cannot be extended to text or audio because arnold transform is an image encryption technique.
