@@ -71,11 +71,11 @@ pip install Pillow
 ## PROGRAMMING
 
 Methods Used:
-1. Arnold Transformation on the watermark logo (Source code--> https://github.com/AleDiBen/ArnoldTransform)
+1. Arnold Transformation on the watermark logo (Reference--> https://github.com/AleDiBen/ArnoldTransform)
 ```javascript
 perform_arnold_transform (watermark_logo)
 ```
-2. Blind Watermarking (Source code--> https://pypi.org/project/blind-watermark/)
+2. Blind Watermarking (Reference--> https://pypi.org/project/blind-watermark/)
 ```javascript
 blind_watermark (img_orgnl, scrambled_img)
 ```
@@ -123,7 +123,7 @@ Can possibly be extended to secure watermarking in videos for digital rights man
 4.	Garg, Preeti, and R. Rama Kishore. "Performance comparison of various watermarking techniques." Multimedia Tools and Applications 79.35 (2020): 25921-25967.
 5.	Min, Li, Liang Ting, and He Yu-jie. "Arnold transform based image scrambling method." 3rd International Conference on Multimedia Technology (ICMT-13). Atlantis Press, 2013.
 6.	Vaish, Ankita, and Manoj Kumar. "Color image encryption using MSVD, DWT and Arnold transform in fractional Fourier domain." Optik 145 (2017): 273-283.
-7.	Arnold Transform Source Code --> https://github.com/AleDiBen/ArnoldTransform
-8.	Blind Watermarking Source Code --> https://pypi.org/project/blind-watermark/
+7.	Arnold Transform Reference --> https://github.com/AleDiBen/ArnoldTransform
+8.	Blind Watermarking Reference --> https://pypi.org/project/blind-watermark/
 
 ## ---> Please let me know if this repository is helpful to you <---
