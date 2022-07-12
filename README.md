@@ -114,7 +114,8 @@ inverse_arnold_transform (scram_watermark)
 Major threat in digital watermarking are attacks such as image processing attack, geometric attacks, cryptographic attacks, and protocol attack [4].
 
 ## Future Works:
-Can possibly be extended to secure watermarking in videos for digital rights management.
+1. This work can possibly be extended to secure watermarking in videos for digital rights management.
+2. Digital rights of any work can be traced easily if it is stored in Blockchain.
 
 ## References:
 1.	Zhaofeng, Ma, Huang Weihua, and Gao Hongmin. "A new blockchain-based trusted DRM scheme for built-in content protection." EURASIP Journal on Image and Video Processing 2018.1 (2018): 1-12.
